@@ -3,7 +3,7 @@ dist
 *.class
 target/
 build/
-allLogs
+allLogs/
 build_eclipse/
 out/
 .gradle/

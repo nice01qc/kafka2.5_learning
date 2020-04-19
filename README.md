@@ -9,6 +9,7 @@
 - 将config/log4j.properties文件复制到   core/src/main/resources 下，没有resources自己建一个
 - 随便启动一个zookeeper服务
 - kafka启动配置![start](pictures/start.png)
+- 其中**消费者**和**生产者**在项目examples项目里有现成的，可以直接用
 
 **注意：**
 
